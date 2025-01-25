@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Built with the latest Next.js and TypeScript, **MoneyMind AI** is an advanced AI-powered financial advice tool designed to assist users in managing their finances. By allowing users to input their income, expenses, and budgets, Our Expense Tracker  offers personalized financial advice, helping users make informed financial decisions. 
+Built with the latest Next.js and TypeScript, **Expense Tracker with AI** is an advanced AI-powered financial advice tool designed to assist users in managing their finances. By allowing users to input their income, expenses, and budgets, Our Expense Tracker  offers personalized financial advice, helping users make informed financial decisions. 
 
 ## 🔋 Features
 
